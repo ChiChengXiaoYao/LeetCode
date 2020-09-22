@@ -55,11 +55,16 @@ class Solution {
 public:
     TreeNode* mergeTrees(TreeNode* t1, TreeNode* t2) {
         // 递归合并即可
+        /* 换一种更简洁的表示
         if(t1==NULL&&t2==NULL)  return NULL;
         else if(t1==NULL)   return t2;
         else if(t2==NULL)   return t1;
+        */
+        // 处理有null的情况
+        if(!t1 || !t2)    return t1?t1:t2;
 
         t1->left = mergeTrees(t1->left, t2->left);
+        // 只要运行到这里，必然双方都有值
         t1->val += t2->val;
         t1->right = mergeTrees(t1->right, t2->right);
         return t1;
