@@ -1,6 +1,6 @@
 # LeetCode
 ~~外网卡炸了，还是回中国站做题~~
-加入了提交时的内存和耗时(并没什么实质性作用，~~同样的代码内存从68%-99%都有，~~相对来说还是**耗时**比较稳定)
+加入了提交时的内存和耗时(并没什么实质性作用，~~同样的代码内存从68%-99%都有~~，相对来说还是**耗时**比较稳定)
 ## Algorithms
 |#|Title|Solutions|Difficulty|Tag|Time|Memory
 |-|-----|---------|----------|---|----|------
@@ -9,6 +9,7 @@
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.两数相加.cpp)|Medium|Math
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/description/)|[Solution](./code/math/easy/7.整数反转.cpp)|Easy|Math
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|[Solution](./code/stack/easy/20.有效的括号.cpp)|Easy|Stack
+|191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|[Solution](./code/bit-manipulation/easy/231.2的幂.cpp)|Easy|Bit Operation|42.86%|99.3%
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|[Solution](./code/math/easy/258.各位相加.cpp)|Easy|Math|46.5%|95.06%
 |442|[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/)|[Soultion](./code/array/medium/442.数组中重复的数据.cpp)|Medium|Array|45.92%|52.45%
