@@ -6,6 +6,7 @@
 |-|-----|---------|----------|---|----|------
 |1|[two sum](https://leetcode.com/problems/two-sum/description/)|[Solution](./code/hash-table/easy/1.twoSum.cpp)|Easy|Hash
 |2|[add two numbers](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.addTwoNumbers.cpp)|Medium|Math
+|1|[两数之和](https://leetcode-cn.com/problems/two-sum/description/)|[Solution](./code/hash-table/easy/1.两数之和.cpp)|Easy|Hash|66.1%|26.47%
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.两数相加.cpp)|Medium|Math
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/description/)|[Solution](./code/math/easy/7.整数反转.cpp)|Easy|Math
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|[Solution](./code/stack/easy/20.有效的括号.cpp)|Easy|Stack
