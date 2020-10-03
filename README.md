@@ -8,6 +8,8 @@
 |2|[add two numbers](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.addTwoNumbers.cpp)|Medium|Math
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum/description/)|[Solution](./code/hash-table/easy/1.两数之和.cpp)|Easy|Hash|66.1%|26.47%
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.两数相加.cpp)|Medium|Math
+|3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)|[Solution](./code/sliding-window/medium/3.无重复字符的最长子串.cpp)|Medium|Sliding Window|98.48%|68.71%
+|类似|30、76|159|209|239、340|567|632、727
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/description/)|[Solution](./code/math/easy/7.整数反转.cpp)|Easy|Math
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|[Solution](./code/stack/easy/20.有效的括号.cpp)|Easy|Stack
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[Solution](./code/linked-list/easy/21.合并两个有序链表.cpp)|Easy|Linked|49.83%|5.04%
