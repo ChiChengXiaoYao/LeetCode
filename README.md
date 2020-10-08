@@ -7,7 +7,7 @@
 |1|[two sum](https://leetcode.com/problems/two-sum/description/)|[Solution](./code/hash-table/easy/1.twoSum.cpp)|Easy|Hash
 |2|[add two numbers](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.addTwoNumbers.cpp)|Medium|Math
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum/description/)|[Solution](./code/hash-table/easy/1.两数之和.cpp)|Easy|Hash|66.1%|26.47%
-|2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.两数相加.cpp)|Medium|Math
+|2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.两数相加.cpp)|Medium|Math|8.8%|5.26%
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)|[Solution](./code/sliding-window/medium/3.无重复字符的最长子串.cpp)|Medium|Sliding Window|98.48%|68.71%
 |类似|30、76|159|209|239、340|567|632、727
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/description/)|[Solution](./code/math/easy/7.整数反转.cpp)|Easy|Math
@@ -16,6 +16,7 @@
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|[Solution](./code/bit-manipulation/easy/231.2的幂.cpp)|Easy|Bit Operation|42.86%|99.3%
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|[Solution](./code/math/easy/258.各位相加.cpp)|Easy|Math|46.5%|95.06%
+|344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)|[Solution](./code/string/easy/344.反转字符串.cpp)|Easy|String|19.19%|98.46%
 |442|[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/)|[Soultion](./code/array/medium/442.数组中重复的数据.cpp)|Medium|Array|45.92%|52.45%
 |501|[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/)|[Solution](./code/tree/easy/501.二叉搜索树中的众数.cpp)|Easy|Tree|5.26%|5.12%[可优化](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/solution/zhen-zheng-fu-he-ti-mu-yao-qiu-de-o1kong-jian-fu-z/)
 |538|[把二叉搜索数转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[Solution](./code/tree/easy/538.把二叉搜索树转换为累加树.cpp)|Easy|Tree
