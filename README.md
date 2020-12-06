@@ -13,6 +13,7 @@
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/description/)|[Solution](./code/math/easy/7.整数反转.cpp)|Easy|Math
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|[Solution](./code/stack/easy/20.有效的括号.cpp)|Easy|Stack
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[Solution](./code/linked-list/easy/21.合并两个有序链表.cpp)|Easy|Linked|49.83%|5.04%
+|118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|[Solution](./code/array/easy/118.杨辉三角.cpp)|Easy|Array|100%|48.84%
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[Solution](./code/two-pointers/easy/141.环形链表.cpp)|Easy|Two Point|65.52%|80.08%
 |142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/)|[Solutin](./code/two-pointers/medium/142.环形链表Ii.cpp)|Medium|Two Point|66.4%|96.1%
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
