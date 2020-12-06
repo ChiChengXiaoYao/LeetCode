@@ -25,3 +25,4 @@
 |538|[把二叉搜索数转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[Solution](./code/tree/easy/538.把二叉搜索树转换为累加树.cpp)|Easy|Tree
 |617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[Solution](./code/tree/easy/617.合并二叉树.cpp)|Easy|Tree|81.06%|99.21%
 |711|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)|[Solution](./code/tree/easy/771.宝石与石头.cpp)|Easy|Tree|67.3%|72.53%
+|861|[翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/description/)|[Solution](./code/array/medium/861.翻转矩阵后的得分.cpp)|Medium|Array|100%|22.99%
