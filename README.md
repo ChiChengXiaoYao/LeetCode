@@ -19,6 +19,7 @@
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[Solution](./code/two-pointers/easy/141.环形链表.cpp)|Easy|Two Point|65.52%|80.08%
 |142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/)|[Solution](./code/two-pointers/medium/142.环形链表Ii.cpp)|Medium|Two Point|66.4%|96.1%
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
+|217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)|[Solution](./code/hash-table/easy/217.存在重复元素.cpp)|Easy|Hash|59.11%|43.49%
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|[Solution](./code/bit-manipulation/easy/231.2的幂.cpp)|Easy|Bit Operation|42.86%|99.3%
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|[Solution](./code/math/easy/258.各位相加.cpp)|Easy|Math|46.5%|95.06%
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)|[Solution](./code/string/easy/344.反转字符串.cpp)|Easy|String|19.19%|98.46%
@@ -27,5 +28,5 @@
 |538|[把二叉搜索数转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[Solution](./code/tree/easy/538.把二叉搜索树转换为累加树.cpp)|Easy|Tree
 |617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[Solution](./code/tree/easy/617.合并二叉树.cpp)|Easy|Tree|81.06%|99.21%
 |711|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)|[Solution](./code/tree/easy/771.宝石与石头.cpp)|Easy|Tree|67.3%|72.53%
-|860|[]柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|[Solution](./code/design/easy/860.柠檬水找零.cpp)|Easy|Design|93.4%|22.45%
+|860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|[Solution](./code/design/easy/860.柠檬水找零.cpp)|Easy|Design|93.4%|22.45%
 |861|[翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/description/)|[Solution](./code/array/medium/861.翻转矩阵后的得分.cpp)|Medium|Array|100%|22.99%
