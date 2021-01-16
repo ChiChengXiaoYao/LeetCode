@@ -10,6 +10,7 @@
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.两数相加.cpp)|Medium|Math|8.8%|5.26%
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/linked-list/medium/2.两数相加.cpp)|Medium|Design|99.86%|92.22%
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)|[Solution](./code/sliding-window/medium/3.无重复字符的最长子串.cpp)|Medium|Sliding Window|98.48%|68.71%
+|3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)|[Solution](./code/two-pointers/medium/3.无重复字符的最长子串.cpp)|Medium|Two Points|75.6%|69.8%
 |类似|30、76|159|209|239、340|567|632、727
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/description/)|[Solution](./code/math/easy/7.整数反转.cpp)|Easy|Math
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|[Solution](./code/stack/easy/20.有效的括号.cpp)|Easy|Stack
@@ -18,8 +19,8 @@
 |62|[不同路径(Math)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/array/medium/62.不同路径.cpp)|Medium|Math|100%|58.03%
 |62|[不同路径(DP)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/dynamic-programming/medium/62.不同路径.cpp)|Medium|Dynamic Programming|100%|35.13%
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|[Solution](./code/array/easy/118.杨辉三角.cpp)|Easy|Array|100%|48.84%
-|141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[Solution](./code/two-pointers/easy/141.环形链表.cpp)|Easy|Two Point|65.52%|80.08%
-|142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/)|[Solution](./code/two-pointers/medium/142.环形链表Ii.cpp)|Medium|Two Point|66.4%|96.1%
+|141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[Solution](./code/two-pointers/easy/141.环形链表.cpp)|Easy|Two Points|65.52%|80.08%
+|142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/)|[Solution](./code/two-pointers/medium/142.环形链表Ii.cpp)|Medium|Two Points|66.4%|96.1%
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)|[Solution](./code/hash-table/easy/217.存在重复元素.cpp)|Easy|Hash|59.11%|43.49%
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|[Solution](./code/bit-manipulation/easy/231.2的幂.cpp)|Easy|Bit Operation|42.86%|99.3%
