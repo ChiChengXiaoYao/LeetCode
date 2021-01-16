@@ -32,11 +32,14 @@
 // @lc code=start
 class Solution {
 public:
+    // 抽象：扫描到某个数时，是否有另一个数与当前数之和为所给值
+    // 查找/插入一个数，Hash时间复杂度为O(1)，平衡树时间复杂度为O(log(n))
     vector<int> twoSum(vector<int>& nums, int target) {
         // map用红黑树实现，适合有序的情况
         // unordered_map用Hash实现，适合查找
         unordered_map<int, int> indices;
         for (int i = 0; i < nums.size(); i++) {
+            // find的替代：count，可以返回对应有多少项(又因为map的Key唯一，所以返回0/1)
             if (indices.find(target - nums[i]) != indices.end()) {
                 // 这玩意就是个用列表初始化构造了一个vector，放在return死活没认出来
                 return {indices[target - nums[i]], i};
