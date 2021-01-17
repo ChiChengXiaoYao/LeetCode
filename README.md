@@ -13,6 +13,7 @@
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)|[Solution](./code/two-pointers/medium/3.无重复字符的最长子串.cpp)|Medium|Two Points|75.6%|69.8%
 |类似|30、76|159|209|239、340|567|632、727
 |4|[寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/)|[Solution](./code/divide-and-conquer/hard/4.寻找两个正序数组的中位数.cpp)|Hard|Merge|97.04%|98.88%
+|5|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)|[Solution](./code/string/medium/5.最长回文子串.cpp)|Medium|String|90.87%|64.33%[马拉车算法可优化]
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/description/)|[Solution](./code/math/easy/7.整数反转.cpp)|Easy|Math
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|[Solution](./code/stack/easy/20.有效的括号.cpp)|Easy|Stack
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[Solution](./code/linked-list/easy/21.合并两个有序链表.cpp)|Easy|Linked|49.83%|5.04%
