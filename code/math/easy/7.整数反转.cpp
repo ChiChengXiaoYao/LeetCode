@@ -44,12 +44,16 @@
 class Solution {
 public:
     int reverse(int x) {
-        long result = 0;
+        // 仅仅使用int进行处理
+        int result = 0;
         while(x){
+            // 对溢出的式子进行变形，使结果不再溢出
+            if(result>0&&result>(INT_MAX-x%10)/10)  return 0;
+            if(result<0&&result<(INT_MIN-x%10)/10)  return 0;
             result = 10*result+x%10;
             x/=10;
         }
-        if(result>INT_MAX||result<INT_MIN) result=0;
+        //if(result>INT_MAX||result<INT_MIN) result=0;
         return result;
     }
 };
