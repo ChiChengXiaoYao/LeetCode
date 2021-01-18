@@ -15,7 +15,8 @@
 |4|[寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/)|[Solution](./code/divide-and-conquer/hard/4.寻找两个正序数组的中位数.cpp)|Hard|Merge|97.04%|98.88%
 |5|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)|[Solution](./code/string/medium/5.最长回文子串.cpp)|Medium|String|90.87%|64.33%[马拉车算法可优化]
 |6|[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/description/)|[Solution](./code/string/medium/6.z字形变换.cpp)|Medium|Design|94.16%|96.99%
-|7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/description/)|[Solution](./code/math/easy/7.整数反转.cpp)|Easy|Math|100%|94.37%
+|7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/description/)|[Solution](./code/math/easy/7.整数反转.cpp)|Easy|Design|100%|94.37%
+|8|[字符串转换整数](https://leetcode-cn.com/problems/string-to-integer-atoi/description/)|[Solution](./code/string/medium/8.字符串转换整数Atoi.cpp)|Medium|Design|74.4%|94.53%
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|[Solution](./code/stack/easy/20.有效的括号.cpp)|Easy|Stack
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[Solution](./code/linked-list/easy/21.合并两个有序链表.cpp)|Easy|Linked|49.83%|5.04%
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/)|[Solution](./code/hash-table/medium/49.字母异位词分组.cpp)|Medium|Hash|91.09%|11.42%
