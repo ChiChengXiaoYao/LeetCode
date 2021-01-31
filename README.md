@@ -21,6 +21,7 @@
 |10|[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/description/)|[Solution](./code/dynamic-programming/hard/10.正则表达式匹配.cpp)|Hard|Dynamic Programming||(回头继续研究)
 |11|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/description/)|[Solution](./code/two-pointers/medium/11.盛最多水的容器.cpp)|Medium|Two Points|97.41%|96.32%(回头看数学证明题解)
 |12|[整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/description/)|[Solution](./code/string/medium/12.整数转罗马数字.cpp)|Medium|String|75.77%|96.65%
+|13|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/description/)|[Solution](./code/string/easy/13.罗马数字转整数.cpp)|Easy|String|56.48%|49.23%
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|[Solution](./code/stack/easy/20.有效的括号.cpp)|Easy|Stack
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[Solution](./code/linked-list/easy/21.合并两个有序链表.cpp)|Easy|Linked|49.83%|5.04%
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/)|[Solution](./code/hash-table/medium/49.字母异位词分组.cpp)|Medium|Hash|91.09%|11.42%
