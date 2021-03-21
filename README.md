@@ -7,8 +7,8 @@
 |1|[two sum](https://leetcode.com/problems/two-sum/description/)|[Solution](./code/hash-table/easy/1.twoSum.cpp)|Easy|Hash
 |2|[add two numbers](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.addTwoNumbers.cpp)|Medium|Math
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum/description/)|[Solution](./code/hash-table/easy/1.两数之和.cpp)|Easy|Hash|66.1%|26.47%
-|2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.两数相加.cpp)|Medium|Math|8.8%|5.26%
-|2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/linked-list/medium/2.两数相加.cpp)|Medium|Design|99.86%|92.22%
+|2|[两数相加(递归)](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/math/medium/2.两数相加.cpp)|Medium|Math|8.8%|5.26%
+|2|[两数相加(迭代)](https://leetcode-cn.com/problems/add-two-numbers/description/)|[Solution](./code/linked-list/medium/2.两数相加.cpp)|Medium|Design|99.86%|92.22%
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)|[Solution](./code/sliding-window/medium/3.无重复字符的最长子串.cpp)|Medium|Sliding Window|98.48%|68.71%
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)|[Solution](./code/two-pointers/medium/3.无重复字符的最长子串.cpp)|Medium|Two Points|75.6%|69.8%
 |类似|30、76|159|209|239、340|567|632、727
