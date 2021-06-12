@@ -45,3 +45,4 @@
 |711|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)|[Solution](./code/tree/easy/771.宝石与石头.cpp)|Easy|Tree|67.3%|72.53%
 |860|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)|[Solution](./code/design/easy/860.柠檬水找零.cpp)|Easy|Design|93.4%|22.45%
 |861|[翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/description/)|[Solution](./code/array/medium/861.翻转矩阵后的得分.cpp)|Medium|Array|100%|22.99%
+|1603|[设计停车系统](https://leetcode-cn.com/problems/design-parking-system/description/)|[Solution](./code/Unknown/easy/1603.设计停车系统.cpp)|Easy|Simulation|33.51%|76.7%
