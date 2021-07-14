@@ -72,7 +72,7 @@
 class Solution {
 public:
     // 分治：每个区间分别求最大子段和、最大前缀、最大后缀、区间总和(最大前缀可能跨区间，需要该信息)
-    // 时间复杂度O(nlgn)
+    // 时间复杂度O(n) 空间复杂度O(lgn)
     struct Node {
         int sum,s,ls,rs;
     };
