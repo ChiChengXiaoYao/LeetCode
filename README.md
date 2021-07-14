@@ -27,6 +27,7 @@
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[Solution](./code/linked-list/easy/21.合并两个有序链表.cpp)|Easy|Linked|49.83%|5.04%
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/)|[Solution](./code/hash-table/medium/49.字母异位词分组.cpp)|Medium|Hash|91.09%|11.42%
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|[Solution](./code/dynamic-programming/easy/53.最大子序和.cpp)|Easy|Dynamic Programming|67.52%|26.01%
+|53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|[Solution](./code/divide-and-conquer/easy/53.最大子序和.cpp)|Easy|Divide And Conquer|29.71%|49.08%
 |62|[不同路径(Math)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/array/medium/62.不同路径.cpp)|Medium|Math|100%|58.03%
 |62|[不同路径(DP)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/dynamic-programming/medium/62.不同路径.cpp)|Medium|Dynamic Programming|100%|35.13%
 |92|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/)|[Solution](./code/linked-list/medium/92.反转链表Ii.cpp)|Medium|Linked|51.4%|30.73%
