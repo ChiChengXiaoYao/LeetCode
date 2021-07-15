@@ -30,6 +30,7 @@
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|[Solution](./code/divide-and-conquer/easy/53.最大子序和.cpp)|Easy|Divide And Conquer|29.71%|49.08%
 |62|[不同路径(Math)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/array/medium/62.不同路径.cpp)|Medium|Math|100%|58.03%
 |62|[不同路径(DP)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/dynamic-programming/medium/62.不同路径.cpp)|Medium|Dynamic Programming|100%|35.13%
+|70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)|[Solution](./code/dynamic-programming/easy/70.爬楼梯.cpp)|Easy|Dynamic Programming|100%|59.85%
 |92|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/)|[Solution](./code/linked-list/medium/92.反转链表Ii.cpp)|Medium|Linked|51.4%|30.73%
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|[Solution](./code/array/easy/118.杨辉三角.cpp)|Easy|Array|100%|48.84%
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[Solution](./code/two-pointers/easy/141.环形链表.cpp)|Easy|Two Points|65.52%|80.08%
