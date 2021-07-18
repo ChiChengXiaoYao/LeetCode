@@ -90,12 +90,10 @@ public:
                 stk.push(root);
                 root = root->left;
             }
-            if(stk.size()) {
-                root = stk.top();
-                stk.pop();
-                ans.push_back(root->val);
-                root = root->right;
-            }
+            root = stk.top();
+            stk.pop();
+            ans.push_back(root->val);
+            root = root->right;
         }
         return ans;
     }
