@@ -35,6 +35,7 @@
 |94|[二叉树的中序遍历(递归)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[Solution](./code/tree/easy/94.二叉树的中序遍历.cpp)|Easy|Recursion|100%|84.9%
 |94|[二叉树的中序遍历(迭代)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[Solution](./code/tree/easy/94.二叉树的中序遍历.cpp)|Easy|Stack|100%|18.46%
 |101|[对称二叉树(递归)](https://leetcode-cn.com/problems/symmetric-tree/description/)|[Solution](./code/depth-first-search/easy/101.对称二叉树.cpp)|Easy|Recursion|85.92%|56.02%
+|104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)|[Solution](code/tree/easy/104.二叉树的最大深度.cpp)|Easy|Recursion|100%|70.88%
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|[Solution](./code/array/easy/118.杨辉三角.cpp)|Easy|Array|100%|48.84%
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[Solution](./code/two-pointers/easy/141.环形链表.cpp)|Easy|Two Points|65.52%|80.08%
 |142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/)|[Solution](./code/two-pointers/medium/142.环形链表Ii.cpp)|Medium|Two Points|66.4%|96.1%
