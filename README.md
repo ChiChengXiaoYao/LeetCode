@@ -38,6 +38,7 @@
 |104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)|[Solution](./code/tree/easy/104.二叉树的最大深度.cpp)|Easy|Recursion|100%|70.88%
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|[Solution](./code/array/easy/118.杨辉三角.cpp)|Easy|Array|100%|48.84%
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)|[Solution](./code/array/easy/121.买卖股票的最佳时机.cpp)|Easy|Array|30.07%|92.48%
+|136|只出现一次的数字(https://leetcode-cn.com/problems/single-number/description/)|[Solution](./code/bit-manipulation/easy/136.只出现一次的数字.cpp)|Easy|Bit Operation|70.44%|60.3%
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[Solution](./code/two-pointers/easy/141.环形链表.cpp)|Easy|Two Points|65.52%|80.08%
 |142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/)|[Solution](./code/two-pointers/medium/142.环形链表Ii.cpp)|Medium|Two Points|66.4%|96.1%
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
