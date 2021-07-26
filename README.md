@@ -24,6 +24,7 @@
 |13|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/description/)|[Solution](./code/string/easy/13.罗马数字转整数.cpp)|Easy|String|56.48%|49.23%
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/description/)|[Solution](./code/string/easy/14.最长公共前缀.cpp)|Easy|String|90.59%|86.24%
 |15|[三数之和](https://leetcode-cn.com/problems/3sum/description/)|[Solution](./code/two-pointers/medium/15.三数之和.cpp)|Medium|Two Points|73.47%|86.32%
+|17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/)|[Solution](./code/backtracking/medium/17.电话号码的字母组合.cpp)|Medium|Backtracking|100%|86.83%
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|[Solution](./code/stack/easy/20.有效的括号.cpp)|Easy|Stack
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[Solution](./code/linked-list/easy/21.合并两个有序链表.cpp)|Easy|Linked|49.83%|5.04%
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/)|[Solution](./code/hash-table/medium/49.字母异位词分组.cpp)|Medium|Hash|91.09%|11.42%
