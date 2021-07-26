@@ -47,6 +47,7 @@
 |160|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/)|[Solution](./code/linked-list/easy/160.相交链表.cpp)|Easy|Linked|92.11%|73.54%
 |169|[多数元素](https://leetcode-cn.com/problems/majority-element/description/)|[Solution](./code/array/easy/169.多数元素.cpp)|Easy|Array|97.32%|16.03%
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
+|206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/)|[Solution](./code/linked-list/easy/206.反转链表.cpp)|Easy|Linked|63.03%|96.93%
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)|[Solution](./code/hash-table/easy/217.存在重复元素.cpp)|Easy|Hash|59.11%|43.49%
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|[Solution](./code/bit-manipulation/easy/231.2的幂.cpp)|Easy|Bit Operation|42.86%|99.3%
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|[Solution](./code/math/easy/258.各位相加.cpp)|Easy|Math|46.5%|95.06%
