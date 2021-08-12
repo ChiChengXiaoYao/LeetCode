@@ -49,6 +49,7 @@
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/)|[Solution](./code/linked-list/easy/206.反转链表.cpp)|Easy|Linked|63.03%|96.93%
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)|[Solution](./code/hash-table/easy/217.存在重复元素.cpp)|Easy|Hash|59.11%|43.49%
+|226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)|[Solution](./code/tree/easy/226.翻转二叉树.cpp)|Easy|Tree|100%|42.18%
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|[Solution](./code/bit-manipulation/easy/231.2的幂.cpp)|Easy|Bit Operation|42.86%|99.3%
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|[Solution](./code/math/easy/258.各位相加.cpp)|Easy|Math|46.5%|95.06%
 |290|[单词规律](https://leetcode-cn.com/problems/word-pattern/description/)|[Solution](./code/hash-table/easy/290.单词规律.cpp)|Easy|Hash|100%|31.82%
