@@ -29,6 +29,7 @@
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)|[Solution](./code/stack/easy/20.有效的括号.cpp)|Easy|Stack
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[Solution](./code/linked-list/easy/21.合并两个有序链表.cpp)|Easy|Linked|49.83%|5.04%
 |22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/description/)|[Solution](./code/string/medium/22.括号生成.cpp)|Medium|DFS|100%|31.01%
+|31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/description/)|[Solution](./code/array/medium/31.下一个排列.cpp)|Medium|Array|74.89%|38.24%
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/)|[Solution](./code/hash-table/medium/49.字母异位词分组.cpp)|Medium|Hash|91.09%|11.42%
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|[Solution](./code/dynamic-programming/easy/53.最大子序和.cpp)|Easy|Dynamic Programming|67.52%|26.01%
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|[Solution](./code/divide-and-conquer/easy/53.最大子序和.cpp)|Easy|Divide And Conquer|29.71%|49.08%
