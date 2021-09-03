@@ -38,6 +38,7 @@
 |62|[不同路径(Math)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/array/medium/62.不同路径.cpp)|Medium|Math|100%|58.03%
 |62|[不同路径(DP)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/dynamic-programming/medium/62.不同路径.cpp)|Medium|Dynamic Programming|100%|35.13%
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)|[Solution](./code/dynamic-programming/easy/70.爬楼梯.cpp)|Easy|Dynamic Programming|100%|59.85%
+|78|[子集](https://leetcode-cn.com/problems/subsets/description/)|[Solution](./code/array/medium/78.子集.cpp)|Medium|Array|100%|67.5%
 |92|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/)|[Solution](./code/linked-list/medium/92.反转链表Ii.cpp)|Medium|Linked|51.4%|30.73%
 |94|[二叉树的中序遍历(递归)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[Solution](./code/tree/easy/94.二叉树的中序遍历.cpp)|Easy|Recursion|100%|84.9%
 |94|[二叉树的中序遍历(迭代)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[Solution](./code/tree/easy/94.二叉树的中序遍历.cpp)|Easy|Stack|100%|18.46%
