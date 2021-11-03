@@ -59,6 +59,7 @@
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|[Solution](./code/bit-manipulation/easy/231.2的幂.cpp)|Easy|Bit Operation|42.86%|99.3%
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|[Solution](./code/math/easy/258.各位相加.cpp)|Easy|Math|46.5%|95.06%
 |290|[单词规律](https://leetcode-cn.com/problems/word-pattern/description/)|[Solution](./code/hash-table/easy/290.单词规律.cpp)|Easy|Hash|100%|31.82%
+|338|[比特位计数](https://leetcode-cn.com/problems/counting-bits/description/)|[Solution](./code/bit-manipulation/easy/338.比特位计数.cpp)|Easy|Bit Operation|93.2%|42.07%
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)|[Solution](./code/string/easy/344.反转字符串.cpp)|Easy|String|19.19%|98.46%
 |442|[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/)|[Soultion](./code/array/medium/442.数组中重复的数据.cpp)|Medium|Array|45.92%|52.45%
 |501|[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/)|[Solution](./code/tree/easy/501.二叉搜索树中的众数.cpp)|Easy|Tree|5.26%|5.12%[可优化](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/solution/zhen-zheng-fu-he-ti-mu-yao-qiu-de-o1kong-jian-fu-z/)
