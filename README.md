@@ -58,6 +58,7 @@
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)|[Solution](./code/hash-table/easy/217.存在重复元素.cpp)|Easy|Hash|59.11%|43.49%
 |226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)|[Solution](./code/tree/easy/226.翻转二叉树.cpp)|Easy|Tree|100%|42.18%
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|[Solution](./code/bit-manipulation/easy/231.2的幂.cpp)|Easy|Bit Operation|42.86%|99.3%
+|234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/)|[Soultion](./code/linked-list/easy/234.回文链表.cpp)|Easy|Linked|50.64%|59.63%
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|[Solution](./code/math/easy/258.各位相加.cpp)|Easy|Math|46.5%|95.06%
 |290|[单词规律](https://leetcode-cn.com/problems/word-pattern/description/)|[Solution](./code/hash-table/easy/290.单词规律.cpp)|Easy|Hash|100%|31.82%
 |338|[比特位计数](https://leetcode-cn.com/problems/counting-bits/description/)|[Solution](./code/bit-manipulation/easy/338.比特位计数.cpp)|Easy|Bit Operation|93.2%|42.07%
