@@ -60,6 +60,7 @@
 |231|[2的幂](https://leetcode-cn.com/problems/power-of-two/description/)|[Solution](./code/bit-manipulation/easy/231.2的幂.cpp)|Easy|Bit Operation|42.86%|99.3%
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/)|[Soultion](./code/linked-list/easy/234.回文链表.cpp)|Easy|Linked|50.64%|59.63%
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|[Solution](./code/math/easy/258.各位相加.cpp)|Easy|Math|46.5%|95.06%
+|283|[移动零](https://leetcode-cn.com/problems/move-zeroes/description/)|[Solution](./code/array/easy/283.移动零.cpp)|Easy|Array|67.99%|5.16%
 |290|[单词规律](https://leetcode-cn.com/problems/word-pattern/description/)|[Solution](./code/hash-table/easy/290.单词规律.cpp)|Easy|Hash|100%|31.82%
 |338|[比特位计数](https://leetcode-cn.com/problems/counting-bits/description/)|[Solution](./code/bit-manipulation/easy/338.比特位计数.cpp)|Easy|Bit Operation|93.2%|42.07%
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)|[Solution](./code/string/easy/344.反转字符串.cpp)|Easy|String|19.19%|98.46%
