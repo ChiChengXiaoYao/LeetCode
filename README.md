@@ -33,6 +33,7 @@
 |33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/)|[Solution](./code/binary-search/medium/33.搜索旋转排序数组.cpp)|Medium|Binary Search|20.52%|82.63%
 |37|[组合总和](https://leetcode-cn.com/problems/combination-sum/description/)|[Solution](./code/backtracking/medium/39.组合总和.cpp)|Medium|Back Tracking|94.48%|39.75%
 |46|[全排列](https://leetcode-cn.com/problems/permutations/description/)|[Solution](code/backtracking/medium/46.全排列.cpp)|Medium|Back Tracking|70.95%|69.95%
+|48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/description/)|[Solution](./code/array/medium/48.旋转图像.cpp)|Medium|Array|46.51%|91.31%
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/)|[Solution](./code/hash-table/medium/49.字母异位词分组.cpp)|Medium|Hash|91.09%|11.42%
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|[Solution](./code/dynamic-programming/easy/53.最大子序和.cpp)|Easy|Dynamic Programming|67.52%|26.01%
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|[Solution](./code/divide-and-conquer/easy/53.最大子序和.cpp)|Easy|Divide And Conquer|29.71%|49.08%
