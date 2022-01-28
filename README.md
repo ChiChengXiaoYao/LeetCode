@@ -31,6 +31,7 @@
 |22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/description/)|[Solution](./code/string/medium/22.括号生成.cpp)|Medium|DFS|100%|31.01%
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/description/)|[Solution](./code/array/medium/31.下一个排列.cpp)|Medium|Array|74.89%|38.24%
 |33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/)|[Solution](./code/binary-search/medium/33.搜索旋转排序数组.cpp)|Medium|Binary Search|20.52%|82.63%
+|34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Solution](./code/binary-search/medium/34.在排序数组中查找元素的第一个和最后一个位置.cpp)|Medium|Binary Search|94.7%|59.26%
 |37|[组合总和](https://leetcode-cn.com/problems/combination-sum/description/)|[Solution](./code/backtracking/medium/39.组合总和.cpp)|Medium|Back Tracking|94.48%|39.75%
 |46|[全排列](https://leetcode-cn.com/problems/permutations/description/)|[Solution](code/backtracking/medium/46.全排列.cpp)|Medium|Back Tracking|70.95%|69.95%
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/description/)|[Solution](./code/array/medium/48.旋转图像.cpp)|Medium|Array|46.51%|91.31%
