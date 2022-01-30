@@ -75,6 +75,7 @@
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)|[Solution](./code/string/easy/344.反转字符串.cpp)|Easy|String|19.19%|98.46%
 |347|[前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)|[Solution](./code/hash-table/medium/347.前K个高频元素.cpp)|Medium|Hash Table|48.75%|45.28%
 |442|[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/)|[Soultion](./code/array/medium/442.数组中重复的数据.cpp)|Medium|Array|45.92%|52.45%
+|448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[Solution](./code/array/easy/448.找到所有数组中消失的数字.cpp)|Easy|Array|69.99%|53.45%
 |501|[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/)|[Solution](./code/tree/easy/501.二叉搜索树中的众数.cpp)|Easy|Tree|5.26%|5.12%[可优化](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/solution/zhen-zheng-fu-he-ti-mu-yao-qiu-de-o1kong-jian-fu-z/)
 |538|[把二叉搜索数转换为累加树(原始)](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[Solution](./code/tree/easy/538.把二叉搜索树转换为累加树.cpp)|Easy|Tree||
 |538|[把二叉搜索数转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[Solution](./code/tree/medium/538.把二叉搜索树转换为累加树.cpp)|Medium|Tree|90.4%|20.15%
