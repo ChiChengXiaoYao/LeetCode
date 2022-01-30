@@ -46,6 +46,7 @@
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)|[Solution](./code/dynamic-programming/easy/70.爬楼梯.cpp)|Easy|Dynamic Programming|100%|59.85%
 |75|[颜色分类](https://leetcode-cn.com/problems/sort-colors/description/)|[Solution](./code/two-pointers/medium/75.颜色分类.cpp)|Medium|Tow Points|100%|82.18%
 |78|[子集](https://leetcode-cn.com/problems/subsets/description/)|[Solution](./code/array/medium/78.子集.cpp)|Medium|Array|100%|67.5%
+|79|[单词搜索](https://leetcode-cn.com/problems/word-search/description/)|[Solution](./code/backtracking/medium/79.单词搜索.cpp)|Medium|DFS|45.43%|92.45%
 |92|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/)|[Solution](./code/linked-list/medium/92.反转链表Ii.cpp)|Medium|Linked|51.4%|30.73%
 |94|[二叉树的中序遍历(递归)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[Solution](./code/tree/easy/94.二叉树的中序遍历.cpp)|Easy|Recursion|100%|84.9%
 |94|[二叉树的中序遍历(迭代)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[Solution](./code/tree/easy/94.二叉树的中序遍历.cpp)|Easy|Stack|100%|18.46%
