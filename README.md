@@ -38,6 +38,7 @@
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/)|[Solution](./code/hash-table/medium/49.字母异位词分组.cpp)|Medium|Hash|91.09%|11.42%
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|[Solution](./code/dynamic-programming/easy/53.最大子序和.cpp)|Easy|Dynamic Programming|67.52%|26.01%
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/)|[Solution](./code/divide-and-conquer/easy/53.最大子序和.cpp)|Easy|Divide And Conquer|29.71%|49.08%
+|55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/description/)|[Solution](./code/array/medium/55.跳跃游戏.cpp)|Medium|Array|14.7%|22.57%
 |62|[不同路径(Math)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/array/medium/62.不同路径.cpp)|Medium|Math|100%|58.03%
 |62|[不同路径(DP)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/dynamic-programming/medium/62.不同路径.cpp)|Medium|Dynamic Programming|100%|35.13%
 |64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/description/)|[Solution](./code/dynamic-programming/medium/64.最小路径和.cpp)|Medium|Dynamic Programming|20.85%|53.76%
