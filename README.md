@@ -73,6 +73,7 @@
 |236|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[Solution](./code/tree/medium/236.二叉树的最近公共祖先.cpp)|Medium|Tree|99.56%|80.64%
 |238|[除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/description/)|[Solution](./code/array/medium/238.除自身以外数组的乘积.cpp)|Medium|Array|73.7%|72.4%
 |258|[各位相加](https://leetcode-cn.com/problems/add-digits/description/)|[Solution](./code/math/easy/258.各位相加.cpp)|Easy|Math|46.5%|95.06%
+|279|[完全平方数](https://leetcode-cn.com/problems/perfect-squares/description/)|[Solution](./code/math/medium/279.完全平方数.cpp)|Medium|Math|100%|99.41%
 |283|[移动零](https://leetcode-cn.com/problems/move-zeroes/description/)|[Solution](./code/array/easy/283.移动零.cpp)|Easy|Array|67.99%|5.16%
 |287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|[Solution](./code/two-pointers/medium/287.寻找重复数.cpp)|Medium|Two Points|61.26%|73.71%
 |290|[单词规律](https://leetcode-cn.com/problems/word-pattern/description/)|[Solution](./code/hash-table/easy/290.单词规律.cpp)|Easy|Hash|100%|31.82%
