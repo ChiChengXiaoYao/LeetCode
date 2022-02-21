@@ -82,6 +82,7 @@
 |338|[比特位计数](https://leetcode-cn.com/problems/counting-bits/description/)|[Solution](./code/bit-manipulation/easy/338.比特位计数.cpp)|Easy|Bit Operation|93.2%|42.07%
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/description/)|[Solution](./code/string/easy/344.反转字符串.cpp)|Easy|String|19.19%|98.46%
 |347|[前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)|[Solution](./code/hash-table/medium/347.前K个高频元素.cpp)|Medium|Hash Table|48.75%|45.28%
+|438|[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/description/)|[Solution](./code/hash-table/medium/438.找到字符串中所有字母异位词.cpp)|Medium|Hash|60.73%|59.52%
 |442|[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/)|[Soultion](./code/array/medium/442.数组中重复的数据.cpp)|Medium|Array|45.92%|52.45%
 |448|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[Solution](./code/array/easy/448.找到所有数组中消失的数字.cpp)|Easy|Array|69.99%|53.45%
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)|[Solution](./code/bit-manipulation/easy/461.汉明距离.cpp)|Easy|Bit Operation|100%|25.07%
