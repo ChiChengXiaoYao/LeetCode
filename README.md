@@ -88,6 +88,7 @@
 |501|[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/)|[Solution](./code/tree/easy/501.二叉搜索树中的众数.cpp)|Easy|Tree|5.26%|5.12%[可优化](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/solution/zhen-zheng-fu-he-ti-mu-yao-qiu-de-o1kong-jian-fu-z/)
 |538|[把二叉搜索数转换为累加树(原始)](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[Solution](./code/tree/easy/538.把二叉搜索树转换为累加树.cpp)|Easy|Tree||
 |538|[把二叉搜索数转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[Solution](./code/tree/medium/538.把二叉搜索树转换为累加树.cpp)|Medium|Tree|90.4%|20.15%
+|543|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)|[Solution](./code/tree/easy/543.二叉树的直径.cpp)|Easy|Tree|77.78%|48.47%
 |617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[Solution](./code/tree/easy/617.合并二叉树.cpp)|Easy|Tree|81.06%|99.21%
 |647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/description/)|[Solution](./code/string/medium/647.回文子串.cpp)|Medium|String|100%|93.97%
 |711|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)|[Solution](./code/tree/easy/771.宝石与石头.cpp)|Easy|Tree|67.3%|72.53%
