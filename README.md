@@ -51,6 +51,7 @@
 |94|[二叉树的中序遍历(递归)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[Solution](./code/tree/easy/94.二叉树的中序遍历.cpp)|Easy|Recursion|100%|84.9%
 |94|[二叉树的中序遍历(迭代)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[Solution](./code/tree/easy/94.二叉树的中序遍历.cpp)|Easy|Stack|100%|18.46%
 |96|[不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/description/)|[Solution](./code/dynamic-programming/medium/96.不同的二叉搜索树.cpp)|Medium|Dynamic Programming|100%|39.83%
+|98|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/description/)|[Solution](./code/tree/medium/98.验证二叉搜索树.cpp)|Medium|Tree|6.62%|5.08%
 |101|[对称二叉树(递归)](https://leetcode-cn.com/problems/symmetric-tree/description/)|[Solution](./code/depth-first-search/easy/101.对称二叉树.cpp)|Easy|Recursion|85.92%|56.02%
 |104|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)|[Solution](./code/tree/easy/104.二叉树的最大深度.cpp)|Easy|Recursion|100%|70.88%
 |105|[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[Solution](./code/tree/medium/105.从前序与中序遍历序列构造二叉树.cpp)|Medium|Tree|97.32%|55.3%
