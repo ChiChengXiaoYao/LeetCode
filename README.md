@@ -45,6 +45,7 @@
 |62|[不同路径(Math)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/array/medium/62.不同路径.cpp)|Medium|Math|100%|58.03%
 |62|[不同路径(DP)](https://leetcode-cn.com/problems/unique-paths/description/)|[Solution](./code/dynamic-programming/medium/62.不同路径.cpp)|Medium|Dynamic Programming|100%|35.13%
 |64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/description/)|[Solution](./code/dynamic-programming/medium/64.最小路径和.cpp)|Medium|Dynamic Programming|20.85%|53.76%
+|66|[加一](https://leetcode-cn.com/problems/plus-one/description/)|[Solution](./code/array/easy/66.加一.cpp)|Easy|Array|41.12%|75.69%
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)|[Solution](./code/dynamic-programming/easy/70.爬楼梯.cpp)|Easy|Dynamic Programming|100%|59.85%
 |75|[颜色分类](https://leetcode-cn.com/problems/sort-colors/description/)|[Solution](./code/two-pointers/medium/75.颜色分类.cpp)|Medium|Tow Points|100%|82.18%
 |78|[子集](https://leetcode-cn.com/problems/subsets/description/)|[Solution](./code/array/medium/78.子集.cpp)|Medium|Array|100%|67.5%
