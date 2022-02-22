@@ -30,6 +30,7 @@
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[Solution](./code/linked-list/easy/21.合并两个有序链表.cpp)|Easy|Linked|49.83%|5.04%
 |22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/description/)|[Solution](./code/string/medium/22.括号生成.cpp)|Medium|DFS|100%|31.01%
 |26|[删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|[Solution](./code/two-pointers/easy/26.删除有序数组中的重复项.cpp)|Easy|Two Pointers|51.75%|32.2%
+|28|[实现StrStr](https://leetcode-cn.com/problems/implement-strstr/description/)|[Solution](./code/string/easy/28.实现StrStr.cpp)|Easy|KMP|90.44%|11.81%
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/description/)|[Solution](./code/array/medium/31.下一个排列.cpp)|Medium|Array|74.89%|38.24%
 |33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/)|[Solution](./code/binary-search/medium/33.搜索旋转排序数组.cpp)|Medium|Binary Search|20.52%|82.63%
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Solution](./code/binary-search/medium/34.在排序数组中查找元素的第一个和最后一个位置.cpp)|Medium|Binary Search|94.7%|59.26%
