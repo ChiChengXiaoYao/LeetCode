@@ -37,6 +37,7 @@
 |36|[有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/)|[Solution](./code/hash-table/medium/36.有效的数独.cpp)|Mediunm|Hash Table|78.95%|94.59%
 |37|[组合总和](https://leetcode-cn.com/problems/combination-sum/description/)|[Solution](./code/backtracking/medium/39.组合总和.cpp)|Medium|Back Tracking|94.48%|39.75%
 |38|[外观数列](https://leetcode-cn.com/problems/count-and-say/description/)|[Solution](./code/string/medium/38.外观数列.cpp)|Medium|String|77.59%|63.56%
+|41|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/description/)|[Solution](./code/array/hard/41.缺失的第一个正数.cpp)|Hard|Array|82.62%|22.48%
 |46|[全排列](https://leetcode-cn.com/problems/permutations/description/)|[Solution](code/backtracking/medium/46.全排列.cpp)|Medium|Back Tracking|70.95%|69.95%
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/description/)|[Solution](./code/array/medium/48.旋转图像.cpp)|Medium|Array|46.51%|91.31%
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/)|[Solution](./code/hash-table/medium/49.字母异位词分组.cpp)|Medium|Hash|91.09%|11.42%
