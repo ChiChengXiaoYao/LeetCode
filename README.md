@@ -72,6 +72,7 @@
 |155|[最小栈](https://leetcode-cn.com/problems/min-stack/description/)|[Solution](./code/stack/easy/155.最小栈.cpp)|Easy|Stack|80.86%|56.29%
 |160|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/)|[Solution](./code/linked-list/easy/160.相交链表.cpp)|Easy|Linked|92.11%|73.54%
 |169|[多数元素](https://leetcode-cn.com/problems/majority-element/description/)|[Solution](./code/array/easy/169.多数元素.cpp)|Easy|Array|97.32%|16.03%
+|190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/description/)|[Solution](./code/bit-manipulation/easy/190.颠倒二进制位.cpp)|Easy|Bit Operation|100%|33.19%
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/)|[Solution](./code/linked-list/easy/206.反转链表.cpp)|Easy|Linked|63.03%|96.93%
 |215|[数组中的第k个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/)|[Solution](./code/divide-and-conquer/medium/215.数组中的第k个最大元素.cpp)|Medium|Quick Select|72.76%|87.27%
