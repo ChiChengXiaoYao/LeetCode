@@ -74,6 +74,7 @@
 |142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/)|[Solution](./code/two-pointers/medium/142.环形链表Ii.cpp)|Medium|Two Points|66.4%|96.1%
 |155|[最小栈](https://leetcode-cn.com/problems/min-stack/description/)|[Solution](./code/stack/easy/155.最小栈.cpp)|Easy|Stack|80.86%|56.29%
 |160|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/)|[Solution](./code/linked-list/easy/160.相交链表.cpp)|Easy|Linked|92.11%|73.54%
+|162|[寻找峰值](https://leetcode-cn.com/problems/find-peak-element/description/)|[Solution](./code/binary-search/medium/162.寻找峰值.cpp)|Medium|Binary Search|100%|33.2%
 |169|[多数元素](https://leetcode-cn.com/problems/majority-element/description/)|[Solution](./code/array/easy/169.多数元素.cpp)|Easy|Array|97.32%|16.03%
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/description/)|[Solution](./code/bit-manipulation/easy/190.颠倒二进制位.cpp)|Easy|Bit Operation|100%|33.19%
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
