@@ -76,6 +76,7 @@
 |169|[多数元素](https://leetcode-cn.com/problems/majority-element/description/)|[Solution](./code/array/easy/169.多数元素.cpp)|Easy|Array|97.32%|16.03%
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/description/)|[Solution](./code/bit-manipulation/easy/190.颠倒二进制位.cpp)|Easy|Bit Operation|100%|33.19%
 |191|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[Solution](./code/bit-manipulation/easy/191.位1的个数.cpp)|Easy|Bit Operation|100%|44.53%
+|202|[快乐数](https://leetcode-cn.com/problems/happy-number/description/)|[Solution](./code/hash-table/easy/202.快乐数.cpp)|Easy|Hash Table|45.61%|71.18%
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/)|[Solution](./code/linked-list/easy/206.反转链表.cpp)|Easy|Linked|63.03%|96.93%
 |215|[数组中的第k个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/)|[Solution](./code/divide-and-conquer/medium/215.数组中的第k个最大元素.cpp)|Medium|Quick Select|72.76%|87.27%
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/)|[Solution](./code/hash-table/easy/217.存在重复元素.cpp)|Easy|Hash|59.11%|43.49%
