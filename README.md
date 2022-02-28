@@ -68,6 +68,7 @@
 |114|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/description/)|[Solution](./code/tree/medium/114.二叉树展开为链表.cpp)|Medium|Tree|85.79%|69.68%
 |118|[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/description/)|[Solution](./code/array/easy/118.杨辉三角.cpp)|Easy|Array|100%|48.84%
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)|[Solution](./code/array/easy/121.买卖股票的最佳时机.cpp)|Easy|Array|30.07%|92.48%
+|128|[最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/description/)|[Solution](./code/array/medium/128.最长连续序列.cpp)|Medium|Array|53.36%|78.43%
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/)|[Solution](./code/bit-manipulation/easy/136.只出现一次的数字.cpp)|Easy|Bit Operation|70.44%|60.3%
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[Solution](./code/two-pointers/easy/141.环形链表.cpp)|Easy|Two Points|65.52%|80.08%
 |142|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/)|[Solution](./code/two-pointers/medium/142.环形链表Ii.cpp)|Medium|Two Points|66.4%|96.1%
